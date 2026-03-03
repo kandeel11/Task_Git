@@ -9,6 +9,7 @@ public class HelloJava // ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿
         Console.WriteLine("Hello git");
 
     }
+<<<<<<< HEAD
 
     public void printHelloKandel()
     {
@@ -19,4 +20,7 @@ public class HelloJava // ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿
         Console.WriteLine("Hello from Mohamed Kandel 2");
     }
 
+=======
+    Console.WriteLine("Hello git");
+>>>>>>> origin/menna
 }

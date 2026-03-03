@@ -19,6 +19,7 @@ public class HelloITI
         Console.WriteLine("Hello from Mohamed Kandel 2");
     }
 
+<<<<<<< HEAD
     public void printHelloKandel3()
     {
         Console.WriteLine("Hello from Mohamed Kandel 3");
@@ -33,5 +34,9 @@ public class HelloITI
     {
         Console.WriteLine("Hello from Amira ");
     }
+=======
+    Console.WriteLine("Hello from Mohamed Kandel 2");
+
+>>>>>>> origin/menna
 
 }

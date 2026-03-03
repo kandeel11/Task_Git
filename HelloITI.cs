@@ -19,5 +19,15 @@ public class HelloITI
         Console.WriteLine("Hello from Mohamed Kandel 2");
     }
 
+    public void printHelloKandel3()
+    {
+        Console.WriteLine("Hello from Mohamed Kandel 3");
+    }
+
+    public void printHelloKandel4()
+    {
+        Console.WriteLine("Hello from Mohamed Kandel 4");
+    }
+
 
 }

@@ -9,4 +9,14 @@ public class HelloJava // ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿
         Console.WriteLine("Hello git");
 
     }
+
+    public void printHelloKandel()
+    {
+        Console.WriteLine("Hello from Mohamed Kandel");
+    }
+    public void printHelloKandel2()
+    {
+        Console.WriteLine("Hello from Mohamed Kandel 2");
+    }
+
 }

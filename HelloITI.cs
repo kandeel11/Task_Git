@@ -19,7 +19,14 @@ public class HelloITI
         Console.WriteLine("Hello from Mohamed Kandel 2");
     }
 
+<<<<<<< HEAD
     Console.WriteLine("Hello from Mohamed Kandel 2");
 
+=======
+    public void printHelloKandel2()
+    {
+        Console.WriteLine("Hello from Amira ");
+    }
+>>>>>>> origin/Amira
 
 }

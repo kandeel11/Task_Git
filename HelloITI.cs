@@ -19,5 +19,7 @@ public class HelloITI
         Console.WriteLine("Hello from Mohamed Kandel 2");
     }
 
+    Console.WriteLine("Hello from Mohamed Kandel 2");
+
 
 }

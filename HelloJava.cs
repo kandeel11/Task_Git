@@ -9,4 +9,5 @@ public class HelloJava // ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿
         Console.WriteLine("Hello git");
 
     }
+    Console.WriteLine("Hello git");
 }
